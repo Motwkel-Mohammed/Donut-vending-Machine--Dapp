@@ -7,7 +7,7 @@ A Dapp Donut vending Machine project, which have the following functionality:
 - Restock donuts
 - Knowing the number of bought donut for each address
 
-## Freamwork used
+## Framework used
 - React [Next.js](https://nextjs.org/)
 
 ## Credit
